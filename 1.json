@@ -1,0 +1,28 @@
+function getProfile() {
+  return {
+    name: 'M. Farij Ariefqy Saputra',
+    age : 21,
+    address: 'Kendal',
+    hobbies: ['Playing Music', 'Sing'],
+    is_married: false
+    }, 
+    list_school: [{
+      vocational_high_school: 'SMK N 4 Kendal',
+      year_in: 2013,
+      year_out: 2015,
+      major: 'Rekayasa Perangkat Lunak'
+    },{
+      university: 'universitas pgri semarang',
+      year_in: 2015,
+      year_out: 2019,
+      major: 'Informatika'
+    }]
+    skills: [{
+      name: 'web programmer',
+      level: 'beginner'
+    }],
+    {
+    interest_in_coding: true
+}
+  }
+}
